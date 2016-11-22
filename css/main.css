@@ -1,0 +1,42 @@
+.navbar-default	{
+	color: #000000;
+	font-family: 'Bungee Inline', cursive;
+	font-family: 'Oswald', sans-serif;
+	width: 100vw;
+    padding: 25px;
+    margin: 10px;
+}
+
+.navbar-brand {
+    float: left;
+    height: 50px;
+    padding: 15px 15px;
+    font-size: 30px;
+    line-height: 20px;
+    color: #000
+}
+
+.nav navbar-nav navbar-right
+
+a {
+    color: #000000;
+    font-family: 'Bungee Inline', cursive;
+	font-family: 'Oswald', sans-serif;
+}
+
+
+
+#wrapperHeader{
+    position: relative;
+    background-image:url(images/header.png);
+}
+
+#header{
+    left: 50%;
+    margin-left: -500px;
+    background:url(https://images.unsplash.com/photo-1473059299523-3ee06d1b88db?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&s=08442574a6b13f45446b0466033647ca) no-repeat;
+    width:1000px;
+    height:200px;
+}
+
+
